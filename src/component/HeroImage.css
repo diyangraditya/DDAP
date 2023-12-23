@@ -1,0 +1,10 @@
+.heroI{
+    position: absolute;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    border-radius: 0;
+}
